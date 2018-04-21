@@ -6,31 +6,158 @@ Nhom5_QLBH_Congvcph00948
 </name>
 </assembly>
 <members>
-<member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Computer">
+<member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.FormView1">
 	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.User">
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.SqlDataSource1">
 	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Request">
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUser">
 	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Response">
+RegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUserWizardStep">
 	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Log">
+RegisterUserWizardStep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.FormView1">
 	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="T:Nhom5_QLBH_Congvcph00948.My.MyWebExtension">
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.SqlDataSource1">
 	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.OpenAuthProviders.providersList">
+	<summary>
+providersList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.providerMessage">
+	<summary>
+providerMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameForm">
+	<summary>
+userNameForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userName">
+	<summary>
+userName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameMessage">
+	<summary>
+userNameMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.successMessage">
 	<summary>
 successMessage control.
@@ -82,70 +209,6 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.externalLoginsList">
 	<summary>
 externalLoginsList control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUser">
-	<summary>
-RegisterUser control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUserWizardStep">
-	<summary>
-RegisterUserWizardStep control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.FormView1">
-	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.providerMessage">
-	<summary>
-providerMessage control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameForm">
-	<summary>
-userNameForm control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userName">
-	<summary>
-userName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameMessage">
-	<summary>
-userNameMessage control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -223,94 +286,31 @@ MainContent control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.FormView1">
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Computer">
 	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.SqlDataSource1">
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.User">
 	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.FormView1">
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Request">
 	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.SqlDataSource1">
+ Returns Request object.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Response">
 	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.FormView1">
+ Returns Response object.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Log">
 	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.SqlDataSource1">
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Nhom5_QLBH_Congvcph00948.My.MyWebExtension">
 	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.FormView1">
-	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.RegisterHyperLink">
-	<summary>
-RegisterHyperLink control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.OpenAuthLogin">
-	<summary>
-OpenAuthLogin control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.OpenAuthProviders.providersList">
-	<summary>
-providersList control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
 </member>
 </members>
 </doc>
