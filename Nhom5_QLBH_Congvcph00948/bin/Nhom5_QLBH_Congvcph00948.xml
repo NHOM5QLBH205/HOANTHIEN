@@ -6,6 +6,7 @@ Nhom5_QLBH_Congvcph00948
 </name>
 </assembly>
 <members>
+<<<<<<< HEAD
 <member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.FormView1">
 	<summary>
 FormView1 control.
@@ -25,236 +26,211 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUser">
 	<summary>
 RegisterUser control.
+=======
+<<<<<<< HEAD
+<member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.FormView1">
+	<summary>
+FormView1 control.
+=======
+<member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.FormView1">
+	<summary>
+FormView1 control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUserWizardStep">
 	<summary>
 RegisterUserWizardStep control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.FormView1">
 	<summary>
 FormView1 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.SqlDataSource1">
 	<summary>
 SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.FormView1">
-	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.FormView1">
-	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.OpenAuthProviders.providersList">
-	<summary>
-providersList control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.FormView1">
-	<summary>
-FormView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.SqlDataSource1">
 	<summary>
 SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.providerMessage">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUserWizardStep">
 	<summary>
-providerMessage control.
+RegisterUserWizardStep control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameForm">
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.FormView1">
 	<summary>
-userNameForm control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userName">
-	<summary>
-userName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameMessage">
-	<summary>
-userNameMessage control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
+FormView1 control.
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Login.RegisterHyperLink">
 	<summary>
 RegisterHyperLink control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.FormView1">
+	<summary>
+FormView1 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.Login.OpenAuthLogin">
 	<summary>
 OpenAuthLogin control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.successMessage">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.SqlDataSource1">
 	<summary>
-successMessage control.
+SqlDataSource1 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.setPassword">
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.FormView1">
 	<summary>
-setPassword control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.password">
-	<summary>
-password control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.newPasswordMessage">
-	<summary>
-newPasswordMessage control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.confirmPassword">
-	<summary>
-confirmPassword control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.changePassword">
-	<summary>
-changePassword control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.externalLoginsList">
-	<summary>
-externalLoginsList control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
+FormView1 control.
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.HeadContent">
 	<summary>
 HeadContent control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.FormView1">
+	<summary>
+FormView1 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A1">
 	<summary>
 A1 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.OpenAuthProviders.providersList">
+	<summary>
+providersList control.
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A2">
 	<summary>
 A2 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.FormView1">
+	<summary>
+FormView1 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.FormView1">
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A3">
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 	<summary>
 A3 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.SqlDataSource1">
+=======
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A4">
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 	<summary>
 A4 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.OpenAuthProviders.providersList">
+	<summary>
+providersList control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A5">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.FormView1">
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
 	<summary>
 A5 control.
 </summary>
@@ -262,7 +238,11 @@ A5 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
 </member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A6">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitietsanpham.SqlDataSource1">
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
 	<summary>
 A6 control.
 </summary>
@@ -286,6 +266,178 @@ MainContent control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.successMessage">
+	<summary>
+successMessage control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.FormView1">
+	<summary>
+FormView1 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.setPassword">
+	<summary>
+setPassword control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.KhachHang.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.password">
+	<summary>
+password control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.successMessage">
+	<summary>
+successMessage control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.newPasswordMessage">
+	<summary>
+newPasswordMessage control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.setPassword">
+	<summary>
+setPassword control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.confirmPassword">
+	<summary>
+confirmPassword control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.password">
+	<summary>
+password control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.changePassword">
+	<summary>
+changePassword control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.newPasswordMessage">
+	<summary>
+newPasswordMessage control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.externalLoginsList">
+	<summary>
+externalLoginsList control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.confirmPassword">
+	<summary>
+confirmPassword control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.HeadContent">
+	<summary>
+HeadContent control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.changePassword">
+	<summary>
+changePassword control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A1">
+	<summary>
+A1 control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Manage.externalLoginsList">
+	<summary>
+externalLoginsList control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A2">
+	<summary>
+A2 control.
+=======
+<<<<<<< HEAD
 </member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Computer">
 	<summary>
  Returns information about the host computer.
@@ -311,6 +463,216 @@ To modify move field declaration from designer file to code-behind file.
  Module used to define the properties that are available in the My Namespace for Web projects.
  </summary>
 	<remarks></remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.FormView1">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.HeadContent">
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+	<summary>
+HeadContent control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A3">
+	<summary>
+A3 control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.HoaDon.SqlDataSource1">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A1">
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+	<summary>
+A1 control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A4">
+	<summary>
+A4 control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.providerMessage">
+	<summary>
+providerMessage control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A2">
+	<summary>
+A2 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A5">
+	<summary>
+A5 control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameForm">
+	<summary>
+userNameForm control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A3">
+	<summary>
+A3 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A6">
+	<summary>
+A6 control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userName">
+	<summary>
+userName control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A4">
+	<summary>
+A4 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.FeaturedContent">
+	<summary>
+FeaturedContent control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.RegisterExternalLogin.userNameMessage">
+	<summary>
+userNameMessage control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A5">
+	<summary>
+A5 control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.MainContent">
+	<summary>
+MainContent control.
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.FormView1">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.A6">
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+	<summary>
+A6 control.
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.User">
+	<summary>
+=======
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.Chitiethoadon.SqlDataSource1">
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.FeaturedContent">
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.OpenAuthProviders.providersList">
+	<summary>
+providersList control.
+=======
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SiteMaster.MainContent">
+	<summary>
+MainContent control.
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+<<<<<<< HEAD
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Nhom5_QLBH_Congvcph00948.SanPham.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+=======
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.User">
+	<summary>
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Nhom5_QLBH_Congvcph00948.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Nhom5_QLBH_Congvcph00948.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+<<<<<<< HEAD
+=======
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
 </member>
 </members>
 </doc>
