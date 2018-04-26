@@ -49,8 +49,8 @@
             &nbsp;<asp:LinkButton ID="DeleteButton" runat="server" CausesValidation="False" CommandName="Delete" Text="Delete" />
             &nbsp;<asp:LinkButton ID="NewButton" runat="server" CausesValidation="False" CommandName="New" Text="New" />
         </ItemTemplate>
-        <PagerStyle BackColor="#336666" ForeColor="White" HorizontalAlign="Center" />
-        <RowStyle BackColor="White" ForeColor="#333333" />
+        <PagerStyle BackColor="#3363"   ForeColor="Black" HorizontalAlign="Center" />
+        <RowStyle BackColor="White" ForeColor="#333333"  />
 </asp:FormView>
 <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\congvcph00948.mdf;Integrated Security=True;Connect Timeout=30" DeleteCommand="DELETE FROM [Chi_Tiet_San_Pham] WHERE [LoaiSp] = @LoaiSp" InsertCommand="INSERT INTO [Chi_Tiet_San_Pham] ([LoaiSp], [TenSP], [MaLoaiSP]) VALUES (@LoaiSp, @TenSP, @MaLoaiSP)" ProviderName="System.Data.SqlClient" SelectCommand="SELECT [LoaiSp], [TenSP], [MaLoaiSP] FROM [Chi_Tiet_San_Pham]" UpdateCommand="UPDATE [Chi_Tiet_San_Pham] SET [TenSP] = @TenSP, [MaLoaiSP] = @MaLoaiSP WHERE [LoaiSp] = @LoaiSp">
     <DeleteParameters>
