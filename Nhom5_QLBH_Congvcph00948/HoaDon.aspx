@@ -4,8 +4,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
-    <p>
-        Hóa Đơn</p>
+    <h2><p><span style="color:blue">
+        Hóa Đơn</span></p></h2>
     <asp:FormView ID="FormView1" runat="server" AllowPaging="True" CellPadding="4" DataKeyNames="MaHD" DataSourceID="SqlDataSource1" Height="69px" Width="260px" BackColor="White" BorderColor="#336666" BorderStyle="Double" BorderWidth="3px" GridLines="Horizontal">
         <EditItemTemplate>
             MaHD:
